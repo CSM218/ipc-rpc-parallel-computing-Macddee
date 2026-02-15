@@ -84,3 +84,7 @@ rubric.json
 # GitHub Actions workflow logs and old workflows
 .github/workflows/logs/
 .github/workflows/autograde.ymlautograder/tests/test_hidden_robustness.py
+
+# my own files
+results.json
+SCS 4212 Lab 1.pdf
